@@ -29,5 +29,5 @@ This project focuses on analysing Electoral Bond data to understand political fu
 
 ## Feedback
 
-For any feedback or suggestions, please contact tripatisahu2002@gmail.com
+For any feedback or suggestions, please contact abhinavrajukumbalwar@gmail.com
 
